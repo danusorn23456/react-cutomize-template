@@ -1,0 +1,1 @@
+export { default as appLog } from "./appLog"
